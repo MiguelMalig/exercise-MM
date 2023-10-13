@@ -1,0 +1,2 @@
+1) Gitignore is a file that ignores files that you dont want to put in the commit stages.
+
